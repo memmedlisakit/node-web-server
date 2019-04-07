@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+}
+
+h1,
+h3,
+p {
+    color: lightgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+    color: lightblue;
+}
+
+img {
+    width: 250px;
+}
+
+input[type='text'] {
+    border: 1px solid #cccccc;
+    padding: 8px;
+}
+
+input[type='submit'] {
+    border: 1px solid #888888;
+    cursor: pointer;
+    background: #888888;
+    color: white;
+    padding: 8px;
+}
